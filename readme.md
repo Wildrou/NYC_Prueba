@@ -1,4 +1,4 @@
-#Abordando el problema
+# Abordando el problema
 
 Mi aproximación al problema ha sido la siguiente:
 

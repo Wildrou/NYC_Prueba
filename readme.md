@@ -9,7 +9,7 @@ Mi aproximación al problema ha sido la siguiente:
        de los posibles módulos que faciliten el trabajo con ficheros csv.
         En este caso me decanté por python, si bien he trabajado con 
         documentos csv a priori en java, he preferido optar por el uso 
-        del módulo pandas de Python por las facilidades que aportar a 
+        del módulo pandas de Python por las facilidades que aporta a 
         la hora de manejar los documentos en este formato.
     
     3º Identificación de las transformaciones necesarias de los documentos.
